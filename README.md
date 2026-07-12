@@ -1,25 +1,25 @@
-# Pharma Sales Data
+# Pharma Sales Data Analysis
 
-Projeto de analise de dados de vendas de medicamentos usando Python, pandas e matplotlib.
+A pharmaceutical sales data analysis project developed using Python, Pandas and Matplotlib.
 
-O objetivo do projeto e explorar dados historicos de vendas por categorias ATC de medicamentos, identificando totais, medias, rankings e padroes sazonais.
+The objective of this project is to explore historical sales data across different ATC medication categories, identifying totals, averages, rankings and seasonal patterns.
 
-## Ferramentas utilizadas
+## Tools Used
 
-- pandas: leitura, limpeza, agrupamento e analise dos dados
-- matplotlib: criacao de graficos de barras, linhas e pizza
-- Jupyter Notebook: organizacao das analises em celulas
+* **Pandas:** Data loading, cleaning, grouping and analysis
+* **Matplotlib:** Creation of bar, line and pie charts
+* **Jupyter Notebook:** Organization and documentation of the analysis
 
-## Analises presentes no notebook
+## Analyses Included in the Notebook
 
-- Quantidade total de vendas por categoria ATC
-- Top 3 categorias mais vendidas em meses especificos
-- Medicamento/categoria ATC mais vendido em 2017
-- Grafico de pizza com os 3 mais vendidos em 2017
-- Categoria com maior media de vendas diarias
-- Grafico de barras da media diaria por categoria
-- Analise sazonal dos medicamentos respiratorios R03 por mes
+* Total sales volume by ATC category
+* Top three best-selling categories in selected months
+* Best-selling ATC category in 2017
+* Pie chart showing the top three categories in 2017
+* ATC category with the highest average daily sales
+* Bar chart comparing average daily sales by category
+* Monthly seasonal analysis of respiratory medications in the R03 category
 
-## Observacao
+## Note
 
-Os dados estao organizados por codigos ATC, que representam categorias de medicamentos. O dataset nao contem nomes comerciais ou marcas individuais de medicamentos.
+The data is organized using ATC codes, which represent medication categories according to the Anatomical Therapeutic Chemical classification system. The dataset does not contain individual brand names or commercial medication names.
